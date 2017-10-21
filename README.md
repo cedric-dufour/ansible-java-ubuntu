@@ -15,7 +15,7 @@ roles:
 ...
 ```
 
-# ContributingJ
+# Contributing
 
 [Spatial Current, Inc.](https://spatialcurrent.io) is currently accepting pull requests for this repository.  We'd love to have your contributions!  Please see [Contributing.md](https://github.com/spatialcurrent/ansible-java-ubuntu/blob/master/CONTRIBUTING.md) for how to get started.
 
