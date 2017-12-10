@@ -1,0 +1,5 @@
+---
+
+PACKAGES_JAVA:
+  - "openjdk-8-jdk"
+ALTERNATIVE_JAVA: "/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java"
