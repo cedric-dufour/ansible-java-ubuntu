@@ -6,13 +6,10 @@
 
 # Usage
 
-Within Ansible playbook:
+From parent directory:
 
 ```
-...
-roles:
-  - ansible-java-ubuntu
-...
+ansible-playbook -i <inventory.ini> -u root ansible-java-ubuntu/playbook.yml
 ```
 
 # Contributing
